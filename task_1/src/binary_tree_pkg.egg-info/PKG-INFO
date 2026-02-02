@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: binary_tree_pkg
+Version: 0.1.0
+Summary: A binary tree implementation with YAML
+Requires-Dist: PyYAML
